@@ -4,4 +4,4 @@
 
 ### Presentation https://youtu.be/aRPG629-g3c
 ### Field Demo   https://youtu.be/XCDFyBskL5E
-[equ.pdf](https://github.com/user-attachments/files/17306574/equ.pdf)
+[Presentation.pdf](https://github.com/user-attachments/files/17306574/equ.pdf)
